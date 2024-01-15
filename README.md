@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kimx024
 - 👀 I’m interested in coding, learning Spanish, travelling and developing my skills 
 - 🌱 I’m currently learning Python and Spanish
+- 🍊 I'm strengthing my knowledge on HTML and CSS 
 - 💞️ I’m looking to collaborate on improving myself
 - 📫 How to reach me _just don't, I am probably asleep or crying about my code_
 
