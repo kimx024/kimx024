@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 ![](https://nirzak-streak-stats.vercel.app/?user=kimx024&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimx024&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kimx024&theme=ayu-mirage&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kimx024&theme=ayu-mirage&no-frame=false&no-bg=true&margin-w=4)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kimx024&icon=0&color=0)](https://visitcount.itsvg.in)
