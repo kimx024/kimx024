@@ -19,8 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=kimx024&theme=catppuccin-mocha)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=kimx024&theme=catppuccin-mocha&card_width=500&card_height=180)](https://git.io/streak-stats)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kimx024&&rank=-C,-B,-?&theme=ayu-mirage&no-frame=false&no-bg=true&margin-w=4)
